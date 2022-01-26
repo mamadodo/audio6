@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/audio6/static/css/main.bc8decef.css",
+    "main.js": "/audio6/static/js/main.457b8671.js",
+    "static/media/20210806_102244_222_radiohistory_ep0544.mp3": "/audio6/static/media/20210806_102244_222_radiohistory_ep0544.c5856041c1c8a9ce51c9.mp3",
+    "static/media/20210424_105226_180_radiohistory_ep0516.mp3": "/audio6/static/media/20210424_105226_180_radiohistory_ep0516.8d1306e45073f09e5a85.mp3",
+    "static/media/20210424_105237_279_radiohistory_ep0517.mp3": "/audio6/static/media/20210424_105237_279_radiohistory_ep0517.b513b5528c745ffc5235.mp3",
+    "static/media/20210430_113621_533_radiohistory_ep0518.mp3": "/audio6/static/media/20210430_113621_533_radiohistory_ep0518.ca72e8b5354336f9d92a.mp3",
+    "static/media/radireki_thumbnail.jpeg": "/audio6/static/media/radireki_thumbnail.264ebb1a0eeec841db59.jpeg",
+    "index.html": "/audio6/index.html",
+    "main.bc8decef.css.map": "/audio6/static/css/main.bc8decef.css.map",
+    "main.457b8671.js.map": "/audio6/static/js/main.457b8671.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc8decef.css",
+    "static/js/main.457b8671.js"
+  ]
+}
